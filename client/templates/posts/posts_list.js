@@ -1,15 +1,15 @@
 var postsData = [
     {
         title: 'Introducing Telescope',
-        url: 'http://google.com'
+        url: 'http://www.google.com'
     },
     {
         title: 'Meteor',
-        url: 'http://google.com'
+        url: 'http://www.vnexpess.vn'
     },
     {
         title: 'The Meteor Book',
-        url: 'http://google.com'
+        url: 'http://wwww.vietnamnet.vn'
     }
 ];
 
