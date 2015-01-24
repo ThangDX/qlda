@@ -9,7 +9,6 @@ insecure
 mizzao:bootstrap-3
 underscore
 iron:router
-<<<<<<< HEAD
-=======
 sacha:spin
->>>>>>> a8952a3d438face5dbc527af75448d17c022a228
+ian:accounts-ui-bootstrap-3
+accounts-password
