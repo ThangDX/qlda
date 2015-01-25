@@ -13,6 +13,9 @@ Template.postSubmit.events({
        Meteor.call('postInsert', post, function(error, result) {
            if(error)
            return alert(error.reason);
+
+           if(result.postExits)
+            alert('Bài này đã được đăng');
            Router.go('postPage', {_id: result._id});
        });
    }
